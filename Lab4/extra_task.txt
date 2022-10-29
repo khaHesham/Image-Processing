@@ -1,0 +1,1 @@
+A blue light was used during image acquisition that makes the image looks more bluish as seen in files 1.jpg and 2.jpg. Eliminate the effect of this extra blue in the image.
